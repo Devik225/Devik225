@@ -9,6 +9,13 @@
 - 🥅 2022 Goals: Contribution to Open source projects.
 - ⚡ Fun fact: I love to design UIUX and then develop it.
 
+```python
+name = "Devik"
+who_i_am = ['Developer', 'Designer', 'Coder','Engineer','IITian','Noobie']
+age = 20
+religion = "🇮🇳"
+```
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
