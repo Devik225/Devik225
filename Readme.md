@@ -49,7 +49,7 @@ religion = "🇮🇳"
 <img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
 <img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
-<img align="left" alt="Illustrator" width="24px" src="https://user-images.githubusercontent.com/67371806/159121775-809abbbd-52da-45fc-8101-549c8f0ed29a.png)" />
+<img align="left" alt="Figma" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/figma.svg" />
 </br>
 </br>
 
