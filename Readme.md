@@ -29,7 +29,7 @@
 ### About 🙋🏻‍♂️
 ```python
 name = "Devik"
-who_i_am = ['Developer', 'Designer','Coder','Engineer','IITian','Noobie']
+who_i_am = ['Developer','Designer','Coder','Engineer','IITian','Noobie']
 age = 20
 religion = "🇮🇳"
 ```
@@ -56,12 +56,12 @@ religion = "🇮🇳"
 ---
 
 ### My projects
-1. Verse
-2. Deslize
-3. Cloudcover
-4. Remindo
-5. Git-o
-6. Tic Tac Toe
+1. Verse: Music streaming Web App built on Reactjs.
+2. Deslize: Short news broadcasting Web App built on nodejs and express.
+3. Cloudcover: Weather search website built on nodejs and express.
+4. Remindo: To do list Web App built on nodejs express and used mongodb as database.
+5. Git-o: Web app to search github profiles.
+6. Tic Tac Toe: It's simply a tic tac toe game with clean beautiful UI.
 
 
 ---
