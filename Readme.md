@@ -3,10 +3,10 @@
 
 ### Available 👇
 <p>
-  <a href="https://www.linkedin.com/in/sumanjay/">
+  <a href="https://www.linkedin.com/in/devik-kamath-88110b1a5/">
     <img align="left" alt="Devik LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/cyberboysj">
+  <a href="https://twitter.com/KamathDevik">
     <img align="left" alt="Devik Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
   <a href="https://https://www.facebook.com/devik.kamath.9">
@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/devik_kamath/?hl=en">
     <img align="left" alt="Devik Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
   </a>
-   <a href="https://www.quora.com/profile/Sumanjay">
+   <a href="https://www.quora.com/profile/Devik-Kamath">
   <img align="left" alt="Devik Quora" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/quora.svg" />
   </a>
   
