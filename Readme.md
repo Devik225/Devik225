@@ -24,16 +24,13 @@
 </br>
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cyberboysumanjay/&title=Profile%20Views)
-
-[![Telegram Channel](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsjprojects)](https://telegram.dog/sjprojects)
-[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsumanbots)](https://telegram.dog/sumanbots)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Devik225/&title=Profile%20Views)
 
 ### About 🙋🏻‍♂️
 ```python
 name = "Devik"
 who_i_am = ['Developer', 'Designer','Coder','Engineer','IITian','Noobie']
-age = 22
+age = 20
 religion = "🇮🇳"
 ```
 
@@ -41,7 +38,7 @@ religion = "🇮🇳"
 ### Skills 👨‍💻
 
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
+<img align="left" alt="Git" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/git.svg" />
 <img align="left" alt="Dart" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dart.svg" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="Android" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
