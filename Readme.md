@@ -1,18 +1,39 @@
-# Hi there, I'm Devik Kamath aka Danny👋 
+## Namaste 🙏🏻
 
 
-## I'm a Student, UIUX Designer, Full Stack Developer and an IITan!!
+### Available 👇
+<p>
+  <a href="https://www.linkedin.com/in/sumanjay/">
+    <img align="left" alt="Devik LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/cyberboysj">
+    <img align="left" alt="Devik Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+  </a>
+  <a href="https://https://www.facebook.com/devik.kamath.9">
+    <img align="left" alt="Devik facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+  </a>
+  <a href="https://www.instagram.com/devik_kamath/?hl=en">
+    <img align="left" alt="Devik Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+   <a href="https://www.quora.com/profile/Sumanjay">
+  <img align="left" alt="Devik Quora" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/quora.svg" />
+  </a>
+  
+</p>
+</br>
+</br>
 
-- 🔭 Check out my Latest project <a href="https://verse225.netlify.app/">Verse</a>
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other web developers.
-- 🥅 2022 Goals: Contribution to Open source projects.
-- ⚡ Fun fact: I love to design UIUX and then develop it.
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cyberboysumanjay/&title=Profile%20Views)
+
+[![Telegram Channel](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsjprojects)](https://telegram.dog/sjprojects)
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsumanbots)](https://telegram.dog/sumanbots)
+
+### About 🙋🏻‍♂️
 ```python
 name = "Devik"
-who_i_am = ['Developer', 'Designer', 'Coder','Engineer','IITian','Noobie']
-age = 20
+who_i_am = ['Developer', 'Designer','Coder','Engineer','IITian','Noobie']
+age = 22
 religion = "🇮🇳"
 ```
 
