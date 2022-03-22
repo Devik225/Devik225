@@ -29,7 +29,7 @@
 ### About 🙋🏻‍♂️
 ```python
 name = "Devik"
-who_i_am = ['Developer','Designer','Coder','Engineer','IITian','Noobie']
+who_i_am = ['Developer','Designer','Coder','Engineer','IITan','Noobie']
 age = 20
 religion = "🇮🇳"
 ```
@@ -56,13 +56,13 @@ religion = "🇮🇳"
 ---
 
 ### My projects
-1. Verse: Music streaming Web App built on Reactjs.
-2. Deslize: Short news broadcasting Web App built on nodejs and express.
-3. Cloudcover: Weather search website built on nodejs and express.
-4. Remindo: To do list Web App built on nodejs express and used mongodb as database.
-5. Git-o: Web app to search github profiles.
-6. Tic Tac Toe: It's simply a tic tac toe game with clean beautiful UI.
-
+1. <a href="https://verse225.netlify.app/">Verse</a>: Music streaming Web App built on Reactjs.
+2. <a href="https://deslize225.herokuapp.com/">Deslize</a>: Short news broadcasting Web App built on nodejs and express.
+3. <a href="http://cloudcover225.herokuapp.com/">Cloudcover</a>: Weather search website built on nodejs and express.
+4. <a href="https://remindo225.herokuapp.com/">Remindo</a>: To do list Web App built on nodejs express and used mongodb as database.
+5. <a href="https://git-o225.herokuapp.com/">Git-o</a>: Web app to search github profiles.
+6. <a href="https://devik225.github.io/Mini-Projects/TIC%20TAC%20TOE/index.html">Tic Tac Toe</a>: It's simply a tic tac toe game with clean beautiful UI.
+7. <a href="https://devik225.github.io/Mini-Projects/Edito/index.html">Edito</a>: Edito is a photo editing website(Front end part completed[backend partially done]).
 
 ---
 
