@@ -57,7 +57,7 @@ religion = "🇮🇳"
 
 ### My projects
 1. <a href="https://verse225.netlify.app/" target_blank>Verse</a>: Music streaming Web App built on Reactjs.
-2. <a href="https://deslize225.herokuapp.com/">Deslize</a>: Short news broadcasting Web App built on nodejs and express.
+2. <a href="https://deslize.herokuapp.com/">Deslize</a>: Short news broadcasting Web App built on nodejs and express.
 3. <a href="http://cloudcover225.herokuapp.com/">Cloudcover</a>: Weather search website built on nodejs and express.
 4. <a href="https://remindo225.herokuapp.com/">Remindo</a>: To do list Web App built on nodejs express and used mongodb as database.
 5. <a href="https://git-o225.herokuapp.com/">Git-o</a>: Web app to search github profiles.
